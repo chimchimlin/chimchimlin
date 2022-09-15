@@ -1,9 +1,11 @@
 ### Hi there is chimchimlin👋
 
-[Chimchimlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimchimlin&theme=dark&show_icons=true)
+[Chimchimlin's GitHub stats]https://github-readme-stats.vercel.app/api?username=chimchimlin&theme=dark&show_icons=true
 
-Here are some ideas to get you started:
+
+
 <!--
+Here are some ideas to get you started:
 **chimchimlin/chimchimlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
